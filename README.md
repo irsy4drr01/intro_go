@@ -1,4 +1,4 @@
-# Proyek Pengelolaan Tugas
+# Proyek Introduction Go
 
 Proyek ini terdiri dari beberapa fungsi yang dibagi ke dalam beberapa file untuk mencetak segitiga, menghasilkan kata sandi, dan menemukan kombinasi film berdasarkan durasi penerbangan.
 
@@ -45,6 +45,10 @@ File ini mengandung fungsi `findMovies(durations []int, n int) ([][]int, []int, 
 
     ```sh
     go run main.go task_1.go task_2.go task_3.go
+    ```
+    atau dengan perintah yang lebih sederhana
+    ```sh
+    go run .
     ```
 
 4. Ikuti petunjuk yang diberikan oleh program untuk memasukkan nilai-nilai yang diperlukan.
