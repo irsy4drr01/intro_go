@@ -7,9 +7,9 @@ Proyek ini terdiri dari beberapa fungsi yang dibagi ke dalam beberapa file untuk
 Proyek ini terdiri dari empat file utama:
 
 1. `main.go` - Berisi fungsi `main()` yang mengatur alur eksekusi program.
-2. `task_1.go` - Berisi fungsi `printSegitiga()` untuk mencetak segitiga.
-3. `task_2.go` - Berisi fungsi `genPass()` untuk menghasilkan kata sandi berdasarkan level keamanan.
-4. `task_3.go` - Berisi fungsi `findMovies()` untuk menemukan kombinasi film berdasarkan durasi penerbangan.
+2. `1._gen_pass.go` - Berisi fungsi `printSegitiga()` untuk mencetak segitiga.
+3. `2._print_segitiga.go` - Berisi fungsi `genPass()` untuk menghasilkan kata sandi berdasarkan level keamanan.
+4. `3._find_movies.go` - Berisi fungsi `findMovies()` untuk menemukan kombinasi film berdasarkan durasi penerbangan.
 
 ## Fungsi Utama
 
