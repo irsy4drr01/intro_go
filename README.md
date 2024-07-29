@@ -21,15 +21,15 @@ File ini mengandung fungsi `main()` yang mengatur alur eksekusi program:
 - Meminta pengguna untuk memasukkan kata sandi dan level keamanan, lalu menghasilkan kata sandi baru menggunakan `genPass(password, level)`.
 - Meminta pengguna untuk memasukkan durasi penerbangan dan menemukan kombinasi film menggunakan `findMovies(movieDurations, n)`.
 
-### task_1.go
+### 1._gen_pass.go
 
 File ini mengandung fungsi `printSegitiga(n int)` yang digunakan untuk mencetak segitiga berdasarkan nilai `n` yang diberikan.
 
-### task_2.go
+### 2._print_segitiga.go
 
 File ini mengandung fungsi `genPass(password string, level string) string` yang digunakan untuk menghasilkan kata sandi baru berdasarkan kata sandi yang diberikan dan level keamanan.
 
-### task_3.go
+### 3._find_movies.go
 
 File ini mengandung fungsi `findMovies(durations []int, n int) ([][]int, []int, []int)` yang digunakan untuk menemukan kombinasi film berdasarkan durasi penerbangan yang diberikan:
 
