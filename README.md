@@ -1,4 +1,4 @@
-# Proyek Pengelolaan Tugas
+# Proyek Introduction Go
 
 Proyek ini terdiri dari beberapa fungsi yang dibagi ke dalam beberapa file untuk mencetak segitiga, menghasilkan kata sandi, dan menemukan kombinasi film berdasarkan durasi penerbangan.
 
